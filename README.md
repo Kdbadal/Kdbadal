@@ -1,7 +1,6 @@
 <img align="right" alt="coding" width="100%" src= "https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png">
 <h1 align="center">Hi 👋, I'm Kushal BAdal</h1>
 <h3 align="center">A passionate about AI/ML and DevOps</h3>
-<h3 align="center">Aspiring Devops Engineer</h3>
 <img align="right" alt="coding" width="400" src= "https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdbadal&label=Profile%20views&color=0e75b6&style=flat" alt="kdbadal" /> </p>
 
