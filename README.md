@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="500" src= "https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdbadal&label=Profile%20views&color=0e75b6&style=flat" alt="kdbadal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdbadal" alt="kdbadal" /></a> </p>
+
 
 - 🌱 I’m currently learning **Machine Learning**
 
